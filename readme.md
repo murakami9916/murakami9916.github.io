@@ -64,7 +64,7 @@
 
 ### 査読あり共著著者論文
 - S. Tsuji, R. Murakami et al., “Magnetic Domain Pattern Analysis for Anisotropy Using Wavelet Based Joint Texture Image Statistics”: *J. Phys. Soc. Jpn.*, under peer review.
-- A. Machida, R. Murakami et al., “[Bayesian estimation for XPS spectral analysis at multiple core levels](https://www.tandfonline.com/doi/full/10.1080/27660400.2021.1943172)”: *STAM-methods* 1 (2021) 123–133.
+- A. Machida, R. Murakami et al., “[Bayesian estimation for XPS spectral analysis at multiple core levels](https://www.tandfonline.com/doi/full/10.1080/27660400.2021.1943172)”: *STAM-methods* **1** (2021) 123–133.
 - H. Shinotsuka, R. Murakami et al., “[Automated information compression of XPS spectrum using information criteria](https://doi.org/10.1016/j.elspec.2019.146903)”: *J. Electron Spectrosc. Relat. Phenom.* **239** (2020) 146903.
 - R. Matsumoto, R. Murakami et al., “[Pressure-induced insulator to metal transition of mixed valence compound Ce(O,F)SbS2](https://doi.org/10.1063/1.5079765)”: *Journal of Applied Physics*, **125** (2019) 075102.   ※ Chosen as an Editor's Pick
 - R. Matsumoto, R. Murakami Y. Takano et al., “[Data-driven exploration of new pressure induced superconductivity in PbBi2Te4](https://doi.org/10.1080/14686996.2018.1548885)”: *Sci. Tech. Adv. Mater.* **19** (2018) 909–916.  ※ Editor's choice 2018.
