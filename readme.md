@@ -56,18 +56,18 @@
 ### 査読あり筆頭著者論文
 - R. Murakami et al., “Inverse Estimation of Parameters for the Magnetic Domain via Dynamics Matching using Visual Perceptive Similarity”: *STAM-methods*, under peer review.
 - R. Murakami et al., “Automatic estimation of unknown chemical components in a mixed material by XPS analysis using a genetic algorithm”: *STAM-methods*, under peer review.
-- R. Murakami et al., “Determination of common peak structure from multiple X-ray photo-electron spectroscopy data sets”: *STAM-methods* **1** (2021) 182−191.
-- R. Murakami et al., “Texture Analysis of Magnetic Domain Images Using Statistics Based on Human Visual Perception”: *J. Phys. Soc. Jpn.* **90** (2021) 044705.
-- R. Murakami et al., “Development of multiple core-level XPS spectra decomposition method based on the Bayesian information criterion”: *J. Electron Spectrosc. Relat. Phenom.* **245** (2020) 147003.
-- R. Murakami et al., “Efficient Removal of Noise-derived Components for Automatic XPS Spectral Decomposition Using Hierarchical Clustering”: *e-JSSNT*. **18** (2020) 201–207.
-- R. Murakami et al., “Background Estimation in X-ray Photoelectron Spectroscopy Data Using an Active Shirley Method with Automated Selection of the Analytical Range”: *e-JSSNT*. **17** (2019) 61–68.
+- R. Murakami et al., “[Determination of common peak structure from multiple X-ray photo-electron spectroscopy data sets](https://www.tandfonline.com/doi/full/10.1080/27660400.2021.1957304)”: *STAM-methods* **1** (2021) 182−191.
+- R. Murakami et al., “[Texture Analysis of Magnetic Domain Images Using Statistics Based on Human Visual Perception](https://journals.jps.jp/doi/full/10.7566/JPSJ.90.044705)”: *J. Phys. Soc. Jpn.* **90** (2021) 044705.
+- R. Murakami et al., “[Development of multiple core-level XPS spectra decomposition method based on the Bayesian information criterion](https://doi.org/10.1016/j.elspec.2020.147003)”: *J. Electron Spectrosc. Relat. Phenom.* **245** (2020) 147003.
+- R. Murakami et al., “[Efficient Removal of Noise-derived Components for Automatic XPS Spectral Decomposition Using Hierarchical Clustering](https://doi.org/10.1380/ejssnt.2020.201)”: *e-JSSNT*. **18** (2020) 201–207.
+- R. Murakami et al., “[Background Estimation in X-ray Photoelectron Spectroscopy Data Using an Active Shirley Method with Automated Selection of the Analytical Range](https://doi.org/10.1380/ejssnt.2019.61)”: *e-JSSNT*. **17** (2019) 61–68.
 
 ### 査読あり共著著者論文
 - S. Tsuji, R. Murakami et al., “Magnetic Domain Pattern Analysis for Anisotropy Using Wavelet Based Joint Texture Image Statistics”: *J. Phys. Soc. Jpn.*, under peer review.
-- A. Machida, R. Murakami et al., “Bayesian estimation for XPS spectral analysis at multiple core levels”: *STAM-methods* 1 (2021) 123–133.
-- H. Shinotsuka, R. Murakami et al., “Automated information compression of XPS spectrum using information criteria”: *J. Electron Spectrosc. Relat. Phenom.* **239** (2020) 146903.
-- R. Matsumoto, R. Murakami et al., “Pressure-induced insulator to metal transition of mixed valence compound Ce(O,F)SbS2”: *Journal of Applied Physics*, **125** (2019) 075102.   ※ Chosen as an Editor's Pick
-- R. Matsumoto, R. Murakami Y. Takano et al., “Data-driven exploration of new pressure induced superconductivity in PbBi2Te4”: *Sci. Tech. Adv. Mater.* **19** (2018) 909–916.  ※ Editor's choice 2018.
+- A. Machida, R. Murakami et al., “[Bayesian estimation for XPS spectral analysis at multiple core levels](https://www.tandfonline.com/doi/full/10.1080/27660400.2021.1943172)”: *STAM-methods* 1 (2021) 123–133.
+- H. Shinotsuka, R. Murakami et al., “[Automated information compression of XPS spectrum using information criteria](https://doi.org/10.1016/j.elspec.2019.146903)”: *J. Electron Spectrosc. Relat. Phenom.* **239** (2020) 146903.
+- R. Matsumoto, R. Murakami et al., “[Pressure-induced insulator to metal transition of mixed valence compound Ce(O,F)SbS2](https://doi.org/10.1063/1.5079765)”: *Journal of Applied Physics*, **125** (2019) 075102.   ※ Chosen as an Editor's Pick
+- R. Matsumoto, R. Murakami Y. Takano et al., “[Data-driven exploration of new pressure induced superconductivity in PbBi2Te4](https://doi.org/10.1080/14686996.2018.1548885)”: *Sci. Tech. Adv. Mater.* **19** (2018) 909–916.  ※ Editor's choice 2018.
 
 ### 査読あり国際学会
 - R. Murakami, K. Nagata, H. Yoshikawa et. al., "Magnetic Domain Pattern Analysis Using Wavelet-Based Joint Texture Statistics": *Material Research Meeting* (2021).
@@ -100,6 +100,10 @@
 - 2022年4月　電気通信大学大学院 情報理工学研究科 情報学専攻 博士後期課程 入学
 - 2022年3月　電気通信大学大学院 情報理工学研究科 情報学専攻 博士前期課程 修了見込
 - 2020年4月　電気通信大学大学院 情報理工学研究科 情報学専攻 博士前期課程 入学
+- 2020年 3月　米子工業高等専門学校専攻科 生産システム専攻 卒業
+- 2018年 4月　米子工業高等専門学校専攻科 生産システム専攻 入学
+- 2018年 3月　米子工業高等専門学校 電気情報工学科 卒業
+- 2013年 4月　米子工業高等専門学校 電気情報工学科 入学
 
 ## 職務経歴
 - 2021年 4月　株式会社オープンストリーム 技術創発推進室, 東京都新宿区西新宿2-7-1
