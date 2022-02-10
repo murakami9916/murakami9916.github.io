@@ -84,7 +84,7 @@ X線光電子分光(XPS)スペクトルの生成過程をモデリングし，�
 
 ## 研究活動に関する業績
 ### 査読あり筆頭著者論文
-- R. Murakami et al., “Inverse Estimation of Parameters for the Magnetic Domain via Dynamics Matching using Visual Perceptive Similarity”: *STAM-methods*, under peer review.
+- R. Murakami et al., “Inverse estimation of parameters for the magnetic domain via dynamics matching using visual perceptive similarity”: *STAM-methods*, under peer review.
 - R. Murakami et al., “Automatic estimation of unknown chemical components in a mixed material by XPS analysis using a genetic algorithm”: *STAM-methods*, under peer review.
 - R. Murakami et al., “[Determination of common peak structure from multiple X-ray photo-electron spectroscopy data sets](https://www.tandfonline.com/doi/full/10.1080/27660400.2021.1957304)”: *STAM-methods* **1** (2021) 182−191.
 - R. Murakami et al., “[Texture Analysis of Magnetic Domain Images Using Statistics Based on Human Visual Perception](https://journals.jps.jp/doi/full/10.7566/JPSJ.90.044705)”: *J. Phys. Soc. Jpn.* **90** (2021) 044705.
