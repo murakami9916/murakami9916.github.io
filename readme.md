@@ -94,6 +94,7 @@
 - International Seminar on Technology for Sustainability 2018　※選考あり
 - NIMS Internship, 受入先：DPFC 材料データ解析グループ　※選考あり
 - NTT R&Dメディアインテリジェンス研究所 インターンシップ ※給与あり
+- 電気通信大学ニュースリリース：[視覚認知に基づいた統計量による磁区パターン画像から物理の解析](https://www.uec.ac.jp/news/announcement/2021/20210701_3495.html)
 
 ## 学業経歴
 - 2023年3月　電気通信大学大学院 情報理工学研究科 情報学専攻 博士後期課程 修了見込
