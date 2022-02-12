@@ -46,7 +46,7 @@
 - Docker・Kubernetesやクラウドサービスの利用経験
 - GitHubを利用した共同プログラム開発
 - 並列処理プログラミングの実装
-- SQLとCassandra(NoSQL)の利用経験
+- RDB(SQL)とCassandra(NoSQL)の利用経験
 - UMLを用いたステートマシンの設計
 
 ### 材料開発のスキル
