@@ -1,6 +1,8 @@
 ### 村上諒
 
 ## 筆頭発表
+1. Ryo Murakami, Kenji Nagata, Hideki Yoshikawa, Hiroshi Shinotsuka and Hayaru Shouno, "Magnetic Domain Pattern Analysis Using Wavelet-Based Joint Texture Statistics" Material Research Meeting 2021, MRS-J.
+1. Ryo Murakami, Masaichiro Mizumaki, Ichiro Akai and Hayaru Shouno, “Automatic Estimation of XPS Reference Spectra for TiO2 Semiconductor Free from Equipment-derived Arbitrariness”, Material Research Meeting 2021, MRS-J.
 1. 村上諒，庄野逸，篠塚寛志，永田賢二，吉川英樹，"多量のスペクトルデータを利用した参照スペクトルの推定手法の開発"，2020年 応用物理学会秋季学術講演会，応用物理学会
 1. 村上諒，仲村和貴，田中博美，篠塚寛志，永田賢二，吉川英樹，"複数のピークを基底とした多元素XPSスペクトル解析の手法開発"，2020年 応用物理学会春季学術講演会，応用物理学会
 1. 村上諒，鈴木聡志，木全英明，"敵対的生成学習を用いた深層学習モデルの分散表現可視化技術の検討"，2020年 画像電子学会年次大会，画像電子学会
@@ -15,9 +17,14 @@
 1. 村上諒，仲村和貴，田中博美，篠塚寛志，吉川英樹，吉原一紘，"XPSスペクトル解析のハイスループット化を目指したActiveShirley法の改良"，2018年 実用表面分析講演会，表面分析研究会
 1. 村上諒，陰山弘典，仲村和貴，片岡範行，田中博美，松本凌，篠塚寛志，吉川英樹，田沼繁夫，吉原一紘，"動的Shirley法によるXPSスペクトル解析範囲の全自動最適化"，2018年 応用物理学会春季学術講演会，応用物理学会
 1. 村上諒，仲村和貴，陰山弘典，片岡範行，田中博美，松本凌，篠塚寛志，吉川英樹，田沼繁夫，吉原一紘，"Ｘ線光電子分光スペクトルにおける大量データ解析プログラムの開発"，第23回高専シンポジウム，高専シンポジウム協議会
+1. 村上諒，仲村和貴，陰山弘典，"ワンクリック！！膨大なスペクトルの一括解析 ～ビックデータ活用を見据えて～"，サイエンス・インカレ2018，文部科学省
+1. 村上諒，仲村和貴，田中祥太，"完全自動な材料開発を見据えた参照データの照合によるXPSスペクトル分解"，サイエンス・インカレ2020，文部科学省
 
 ## 共著発表
 1. 辻駿哉，村上諒，水牧仁一朗，赤井一郎，庄野逸，"視覚認知に基づく画像統計量を用いた磁区パターン解析"，2022年 放射光学会年会放射光科学合同シンポジウム，放射光学会
+1. 町田惇，永田賢二，村上諒，篠塚寛志，庄野逸，吉川英樹，岡田真人，"多重ピークを基底関数とした多元素XPSスペクトル解析に向けたベイズ推定"，2021年 応用物理学会春季学術講演会，応用物理学会
+1. Hiroshi Shinotsuka, Hideki Yoshikawa, Ryo Murakami, Kenji Nakamura, Hiromi Tanaka and Kazuhiro Yoshihara, "Fully automatic peak and background analysis of XPS spectral data, Sparse modeling of XPS pectra", NIMS WEEK 2019, NIMS
+1. Hiroshi Shinotsuka, Hideki Yoshikawa, Ryo Murakami, Kenji Nakamura, Hiromi Tanaka and Kazuhiro Yoshihara, "Automated peak fitting of XPS spectrum using information criteria", International Symposium on Practical Surface Analysis 2019, SASJ
 1. 原田善之，角谷正友，篠塚寬志，登坂弘明，松波成行，田沼繁夫，吉川英樹，村上諒，庄野逸，"BIC自動ピークフィッティング技術を用いたXPSデータセットのハイスループット解析手法"，2020年度 実用表面分析講演会，表面分析研究会
 1. 篠塚寛志，吉川英樹，村上諒，仲村和貴，田中博美，吉原一紘，"情報量基準を用いたXPSスペクトルの自動スパースモデリング"，2020年度 応用物理学会春季学術講演会，応用物理学会
 1. 篠塚寛志，村上諒，永田賢二，田中博美，吉川英樹，"X線光電子分光におけるスパースモデリングの自動化と化学分析への応用"，NIMS先端計測シンポジウム2020，国立研究開発法人物質・材料研究機構
@@ -33,3 +40,5 @@
 1. 陰山弘典，仲村和貴，村上諒，片岡範行，田中博美，松本凌，篠塚寛志，吉川英樹，田沼繁夫，吉原一紘，"動的Shirley法を用いたXPSスペクトル解析におけるアルゴリズムの改良 ～端点付近のロバストなスペクトルの自動処理～"，第23回高専シンポジウム，高専シンポジウム協議会
 1. 仲村和貴，村上諒，陰山弘典，片岡範行，田中博美，松本凌，篠塚寛志，吉川英樹，田沼繁夫，吉原一紘，"参照スペクトルを用いた動的Shirley法によるX線光電子分光スペクトルの解析 〜産業分野を活性化する自動解析ソフトウェアの実現を目指して〜"，第23回高専シンポジウム，高専シンポジウム協議会
 1. 篠塚寛志，吉川英樹，村上諒，仲村和貴，陰山弘典，田中博美，吉原一紘，"Active Shirley法を使ったXPSスペクトル分解の自動化アルゴリズムの改良"，2017年 実用表面分析講演会，表面分析研究会
+1. 山本紗矢香，村上諒，陰山弘典，"新規育成法によるBi系高温超伝導ウィスカーの大型化"，サイエンス・インカレ2019，文部科学省
+1. 陰山弘典，村上諒，山本紗矢香，"多量スペクトル?ASがあるでしょ! ～AI技術を用いた動的Shirley法の改良～"，サイエンス・インカレ2019，文部科学省
