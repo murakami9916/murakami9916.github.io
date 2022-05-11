@@ -108,6 +108,11 @@ IoTセンサデータにおける異常検知システム開発の主担当者�
 
 開発したシステムは，対象サイトの利用規約およびrobots.txtを遵守している．
 
+### ニューラルネットワークを用いたAI-OCRシステムの開発
+webシステム開発会社との業務委託契約で依頼を受け，機械学習を取り入れた光学文字認識(AI-OCR)システムの開発を行った．AI-OCRはニューラルネットワークを用いて実現した．
+
+研究期間：2022年4月〜2020年6月
+
 ## 研究活動に関する業績
 ### 査読あり筆頭著者論文
 - **Ryo Murakami**, Masaichiro Mizumaki, Ichiro Akai, Hayaru Shouno, “Inverse estimation of parameters for the magnetic domain via dynamics matching using visual perceptive similarity”: *STAM-methods*, accepted (2022).
