@@ -47,7 +47,9 @@
 - IoTセンサの時系列信号における異常検知手法の開発
 
 ### システム開発のスキル
-- Docker・Kubernetesやクラウドサービスの利用経験
+- Dockerやクラウドサービスの利用経験
+- distrolessイメージを用いた環境構築
+- Kubernetesを用いた機械学習モデルのデプロイ
 - 並列処理プログラミングの実装
 - RDB(SQL)とCassandra(NoSQL)の利用経験
 - UMLを用いたステートマシンの設計
