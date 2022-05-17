@@ -137,8 +137,8 @@ webシステム開発会社から業務委託契約で依頼を受け，機械�
 - Ryo Matsumoto, Zhufeng Hou, Masanori Nagao, Shintaro Adachi, Hiroshi Hara, Hiromi Tanaka, Kazuki Nakamura, **Ryo Murakami**, Sayaka Yamamoto, Hiroyuki Takeya, Tetsuo Irifune, Kiyoyuki Terakura & Yoshihiko Takano, “[Data-driven exploration of new pressure induced superconductivity in PbBi2Te4](https://doi.org/10.1080/14686996.2018.1548885)”: *Sci. Tech. Adv. Mater.* **19** (2018) 909–916.  ※ Editor's choice 2018.
 
 ### 査読あり国際学会
-- **R. Murakami**, K. Nagata, H. Yoshikawa et. al., "Magnetic Domain Pattern Analysis Using Wavelet-Based Joint Texture Statistics": *Material Research Meeting* (2021).
-- **R. Murakami**, M. Mizumaki, I. Akai, et. al., "Automatic Estimation of XPS Reference Spectra for TiO2 Semiconductor Free from Equipment-derived Arbitrariness": *Material Research Meeting* (2021).
+- **R. Murakami**, K. Nagata, H. Yoshikawa et. al., "Magnetic Domain Pattern Analysis Using Wavelet-Based Joint Texture Statistics": *Material Research Meeting*, 2021 (Peer-reviewed).
+- **R. Murakami**, M. Mizumaki, I. Akai, et. al., "Automatic Estimation of XPS Reference Spectra for TiO2 Semiconductor Free from Equipment-derived Arbitrariness": *Material Research Meeting* 2021 (Peer-reviewed).
 
 ### 査読あり国内発表
 - 村上諒, 仲村和貴, 陰山弘典, “ワンクリック！！膨大なスペクトルの一括解析 ～ビックデータ活用を見据えて～”: 文部科学省主催 サイエンス・インカレ (2018) 39.
