@@ -120,6 +120,7 @@ webシステム開発会社から業務委託契約で依頼を受け，機械�
 
 ## 研究活動に関する業績
 ### 査読あり筆頭著者論文
+- **Ryo Murakami**+, "Correlation analysis with experimental recipes and peak structures in XPS spectral round-robin tests on MnO powder sample": *STAM-methods*, in preparation.
 - **Ryo Murakami**, Masaichiro Mizumaki, Ichiro Akai, Hayaru Shouno, “Inverse estimation of parameters for the magnetic domain via dynamics matching using visual perceptive similarity”: *STAM-methods*, accepted (2022).
 - **Ryo Murakami**, Hiromi Tanaka, Takeshi Iizuka, Hiroshi Shinotsuka, Kenji Nagata, Hayaru Shouno, Hideki Yoshikawa, “[Automatic estimation of unknown chemical components in a mixed material by XPS analysis using a genetic algorithm](https://doi.org/10.1080/27660400.2022.2061878)”: *STAM-methods* **2**, 1 (2022) 91-105.
 - **Ryo Murakami**, Hayaru Shouno, Kenji Nagata, Hiroshi Shinotsuka, Hideki Yoshikawa, “[Determination of common peak structure from multiple X-ray photo-electron spectroscopy data sets](https://www.tandfonline.com/doi/full/10.1080/27660400.2021.1957304)”: *STAM-methods* **1**, 1 (2021) 182−191.
