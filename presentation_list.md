@@ -6,7 +6,7 @@
 ## 筆頭発表
 ### 2022年
 - **村上諒**，田中博美，飯塚猛，庄野逸，篠塚寛志，永田賢二，吉川英樹，"深さ分解XPSスペクトル解析における未知成分の自動推定"，2022年 応用物理学会春季学術講演会，応用物理学会
-- **村上諒**，原田善之，薗林豊，陰地宏，牧野久雄，田中博美，田口秀之，坂本堯則，森田温可，若森昭彦，木部奈緒子，西田真輔，高野みどり，篠塚寛志，永田賢二，庄野逸，吉川英樹"MnO粉体試料のXPSスペクトルのラウンドロビンテストにおける共通ピーク構造に基づく定量評価"， 第58回表面分析研究会，SASJ
+- **村上諒**，原田善之，薗林豊，陰地宏，牧野久雄，田中博美，田口秀之，坂本堯則，森田温可，若森昭彦，木部奈緒子，西田真輔，高野みどり，篠塚寛志，永田賢二，庄野逸，吉川英樹，"MnO粉体試料のXPSスペクトルのラウンドロビンテストにおける共通ピーク構造に基づく定量評価"， 第58回表面分析研究会，SASJ
 
 ### 2021年
 - **Ryo Murakami**, Kenji Nagata, Hideki Yoshikawa, Hiroshi Shinotsuka and Hayaru Shouno, "Magnetic Domain Pattern Analysis Using Wavelet-Based Joint Texture Statistics" Material Research Meeting 2021, MRS-J.
